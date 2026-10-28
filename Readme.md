@@ -2,7 +2,7 @@
 
 <img src="agent-simoes.png" alt="Original">
 
-## This is a simple, limit and clumsy agent.
+## An educational, lightweight AI agent designed to demonstrate core agentic workflows, local LLM integration, and safe tool-use via a simple file system parser.
 
 ## Features
 
